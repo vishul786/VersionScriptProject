@@ -11,8 +11,8 @@ android {
         applicationId = "com.example.versionscriptproject"
         minSdk = 21
         targetSdk = 33
-        versionCode = 2
-        versionName = "Update_file2"
+        versionCode = 3
+        versionName = "new_file1"
     }
 }
 
